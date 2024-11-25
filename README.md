@@ -17,7 +17,8 @@ The [MLX42](https://github.com/codam-coding-college/MLX42) graphics library is u
  
 #### Installing:
  - Install the dependencies for MLX42 graphics library
- - Clone cub3D repository 
+ - Clone cub3D repository
+ - `git clone https://github.com/Yunchia-Hsu/Cub3D.git`
  - Run `make` or `make bonus` to see more features  
 
 #### Running:
