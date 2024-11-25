@@ -22,7 +22,7 @@ The [MLX42](https://github.com/codam-coding-college/MLX42) graphics library is u
 
 #### Running:
   - Select the Makefile that matches your system (Linux or macOS)
-  - Run `./cub3d path_to_map` (./maps/bonus_maps/3.cub)
+  - Run `./cub3d path_to_map` (eg ./maps/bonus_maps/3.cub)
 
 #### Instruction: 
  - Use the "W", "A", "S", and "D" keys to move the player
